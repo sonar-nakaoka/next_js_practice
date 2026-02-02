@@ -1,6 +1,13 @@
 # Next.js Dashboard メモ
 
-> 全て `nextjs-dashboard` ディレクトリで実行
+## pnpmのインストール
+
+```
+npm install -g pnpm
+```
+
+> 以下全てホストマシン側 `nextjs-dashboard` ディレクトリで実行
+> (devcontainer内でも良いけどなんか色々やらないとホットリロードされなくてめんどい)
 
 ## 初回パッケージインストール
 
