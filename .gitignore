@@ -1,0 +1,4 @@
+.claude
+.claude.json
+.pnpm-store
+node_modules
